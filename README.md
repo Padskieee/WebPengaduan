@@ -110,7 +110,7 @@ Setelah menjalankan seeder, tersedia akun admin default untuk pengujian awal:
 |-------|-------------------------|-----------|
 | Admin | admin@ogekwali.com      | admin123  |
 
-> ⚠️ **Penting:** Segera ganti password akun default ini setelah login pertama kali, terutama sebelum aplikasi digunakan di lingkungan production. Jangan biarkan kredensial default tetap aktif pada server yang dapat diakses publik.
+> **Penting:** Segera ganti password akun default ini setelah login pertama kali, terutama sebelum aplikasi digunakan di lingkungan production. Jangan biarkan kredensial default tetap aktif pada server yang dapat diakses publik.
 
 ## Struktur Role
 
