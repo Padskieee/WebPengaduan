@@ -1,4 +1,4 @@
-# OGEK WALI
+OGEK WALI
 
 **Sistem Pengaduan Masyarakat Kota Sibolga**
 
